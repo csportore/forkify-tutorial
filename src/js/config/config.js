@@ -1,0 +1,1 @@
+export const forkifyURLRoot = 'http://forkify-api.herokuapp.com/api';
